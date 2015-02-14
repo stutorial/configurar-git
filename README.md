@@ -5,4 +5,4 @@ Para ejecutarlo correr:
  
 # Importante
 
-Cambiar el nombre y el mail según corresponda
+Cambiar en git-configuracion.txt el nombre y el mail según corresponda
